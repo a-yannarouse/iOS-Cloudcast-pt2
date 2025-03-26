@@ -1,6 +1,6 @@
 # CloudCast Part 2
 
-_A weather application built as part of the CodePath Courses iOS101 Lab_
+_A weather application built as part of the CodePath Courses iOS101 Lab 4_
 
 ---
 
@@ -48,4 +48,22 @@ CloudCast Part 2 is an iOS application developed during Week 5 of the iOS101 cou
 
    ```bash
    git clone https://github.com/a-yannarouse/iOS-Cloudcast-pt2.git
+   
+---
+
+## License
+
+    Copyright [2025] [A'Yanna Rouse]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
 
